@@ -1,2 +1,2 @@
-# hotel-menu-analyzer
-Aanlyzes the cooking complexity of any food menu
+# Hotel-Menu-Analyzer
+Aanlyzes the cooking complexity of any food item.
